@@ -19,5 +19,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Security
 -->
 
-## 1.0 - 30/09/2020
+## 1.0.2 - 30/09/2020
+* Renamed `isArray` To `_isArray`
+
+
+## 1.0.1 - 30/09/2020
+* Just Some Patches In README.md
+
+
+## 1.0.0 - 30/09/2020
 * First Release
