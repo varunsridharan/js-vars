@@ -11,7 +11,7 @@ export const _push      = _Arrayprop.push;
 export const _some      = _Arrayprop.some;
 export const _slice     = _Arrayprop.slice;
 export const _splice    = _Arrayprop.splice;
-export const isArray    = Arr.isArray;
+export const _isArray   = Arr.isArray;
 
 /**
  * Object Related Vars
