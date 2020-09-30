@@ -1,9 +1,8 @@
 {
   "name"        : "@varunsridharan/js-vars",
-  "version"     : "1.0.0",
+  "version"     : "1.0.1",
   "description" : "This is a simple js utility mainly used for my js apps. ",
   "main"        : "index.js",
-  "readme"      : "README.md",
   "author"      : "Varun Sridharan <varunsridharan23@gmail.com> (https://varunsridharan.in)",
   "keywords"    : [
 	"javascript",
