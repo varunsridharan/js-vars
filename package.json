@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "Varun Sridharan <varunsridharan23@gmail.com> (https://varunsridharan.in)",
   "module": "index.js",
+  "type" : "module",
   "keywords": [
     "javascript",
     "javascript-vars",
