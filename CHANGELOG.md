@@ -19,6 +19,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Security
 -->
 
+## 1.0.4 - 01/10/2020
+* Added `type=>module` Field in Package.json
+
+## 1.0.3 - 01/10/2020
+* Added `Module` Field in Package.json
+
 ## 1.0.2 - 30/09/2020
 * Renamed `isArray` To `_isArray`
 
